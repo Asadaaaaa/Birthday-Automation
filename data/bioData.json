@@ -1,0 +1,352 @@
+{
+  "bioData": [
+    {
+      "name": "Aditya Syawal",
+      "bDay": {
+        "month": 1,
+        "day": 2
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Afwa Afini",
+      "bDay": {
+        "month": 2,
+        "day": 8
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": "https://raw.githubusercontent.com/UKT-Jaya/BDay-Automation/main/Data/images/Afwa%20Afini.jpg"
+      }
+    },
+    {
+      "name": "Akbar Hidayat",
+      "bDay": {
+        "month": 8,
+        "day": 10
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Audy Shafa Firdasha",
+      "bDay": {
+        "month": 1,
+        "day": 23
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Azka Ahmad Azharan",
+      "bDay": {
+        "month": 5,
+        "day": 13
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Calzy Akmal",
+      "bDay": {
+        "month": 11,
+        "day": 6
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Daffa Taira",
+      "bDay": {
+        "month": 4,
+        "day": 9
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Devalino π Syambara",
+      "bDay": {
+        "month": 12,
+        "day": 4
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Evander Tokang",
+      "bDay": {
+        "month": 5,
+        "day": 19
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Fabrizio Malika",
+      "bDay": {
+        "month": 8,
+        "day": 26
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Fahriza Ahmad Harits",
+      "bDay": {
+        "month": 6,
+        "day": 25
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Fakhra Aufia Yumna Munawar",
+      "bDay": {
+        "month": 4,
+        "day": 22
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Frahari Perdana Putra",
+      "bDay": {
+        "month": 12,
+        "day": 8
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Genta Alima Persada",
+      "bDay": {
+        "month": 3,
+        "day": 15
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Hafidz Maulana",
+      "bDay": {
+        "month": 2,
+        "day": 11
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": "https://raw.githubusercontent.com/UKT-Jaya/BDay-Automation/main/Data/images/Hafidz%20Maulana.jpg"
+      }
+    },
+    {
+      "name": "Hanisah Fildza Annafisah",
+      "bDay": {
+        "month": 9,
+        "day": 10
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Innaka Dylee",
+      "bDay": {
+        "month": 9,
+        "day": 3
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Mikail",
+      "bDay": {
+        "month": 3,
+        "day": 25
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Muhamad Thoriq A",
+      "bDay": {
+        "month": 12,
+        "day": 3
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Muhammad Fakhri Robbani",
+      "bDay": {
+        "month": 1,
+        "day": 11
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Muhammad Fathan Octafirst",
+      "bDay": {
+        "month": 10,
+        "day": 5
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Muhammad Zaidan Firdaus",
+      "bDay": {
+        "month": 1,
+        "day": 7
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Nurazmi Dhimas Azizah",
+      "bDay": {
+        "month": 3,
+        "day": 18
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Nuriansyah Rizki",
+      "bDay": {
+        "month": 9,
+        "day": 19
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Rafi Fajrul Ariyadi",
+      "bDay": {
+        "month": 6,
+        "day": 8
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Risyad Rafi",
+      "bDay": {
+        "month": 10,
+        "day": 13
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Siti Suci Wulandari",
+      "bDay": {
+        "month": 2,
+        "day": 21
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": "https://raw.githubusercontent.com/UKT-Jaya/BDay-Automation/main/Data/images/Siti%20Suci%20Wulandari.jpg"
+      }
+    },
+    {
+      "name": "Talim",
+      "bDay": {
+        "month": 11,
+        "day": 20
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    },
+    {
+      "name": "Utari Regiyanti Ramadani",
+      "bDay": {
+        "month": 11,
+        "day": 7
+      },
+      "celebration": {
+        "isCeleb": true,
+        "year": 2022,
+        "imgURL": ""
+      }
+    }
+  ]
+}

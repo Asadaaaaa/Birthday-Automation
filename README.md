@@ -1,4 +1,5 @@
 <div align="center">
+	<h1>Birthday Automation</h1>
 	<p>
 		This is a program to automatically announce birthday on Instagram.<br>
 		(This program is built for personal learning and experience)
